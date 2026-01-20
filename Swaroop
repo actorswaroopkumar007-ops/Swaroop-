@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Swaroop Kumar | Filmmaker</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0b0b0b;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+    header {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background: linear-gradient(to bottom, #000000, #111111);
+    }
+    header h1 {
+      font-size: 3rem;
+      letter-spacing: 2px;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #bbbbbb;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      border-left: 4px solid #ff3c3c;
+      padding-left: 12px;
+      margin-bottom: 20px;
+    }
+    .skills span {
+      display: inline-block;
+      background: #1c1c1c;
+      padding: 8px 14px;
+      margin: 6px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+    }
+    .project {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #151515;
+      border-radius: 6px;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: #000;
+      color: #777;
+      font-size: 0.9rem;
+    }
+    a {
+      color: #ff3c3c;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>SWAROOP KUMAR</h1>
+  <p>Filmmaker | Director | Writer</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am an independent filmmaker passionate about dark crime thrillers,
+    psychological drama, and socially driven stories. My work focuses on
+    emotional depth, layered narratives, and cinematic realism.
+  </p>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <div class="skills">
+    <span>Direction</span>
+    <span>Screenwriting</span>
+    <span>Editing</span>
+    <span>Visual Storytelling</span>
+    <span>Crime & Thriller</span>
+    <span>Psychological Drama</span>
+  </div>
+</section>
+
+<section>
+  <h2>Projects</h2>
+
+  <div class="project">
+    <strong>Old Soul</strong>
+    <p>A poetic short film about isolation, maturity, and existential solitude under universal starlight.</p>
+  </div>
+
+  <div class="project">
+    <strong>3 Kala</strong>
+    <p>A three-timeline feature film exploring farmers’ exploitation, political corruption, and a dystopian future.</p>
+  </div>
+
+  <div class="project">
+    <strong>Calling Bell</strong>
+    <p>A Bangalore-set crime thriller web series focusing on investigation and emotional realism.</p>
+  </div>
+
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>
+    📧 Email: yourmail@email.com <br/>
+    📱 Phone: XXXXXXXXXX <br/>
+    📸 Instagram: <a href="#">@yourhandle</a>
+  </p>
+</section>
+
+<footer>
+  © 2026 Swaroop Kumar | Filmmaker Portfolio
+</footer>
+
+</body>
+</html>
